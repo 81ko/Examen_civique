@@ -42,9 +42,3 @@ L'audio utilise la synthèse vocale intégrée au navigateur (Web Speech API). L
 - 各単語のチェックボックスを選ぶと、ブラウザーに保存されます。
 - 「単語復習」ボタンではチェック済みの単語だけを表示します。
 - 単語の音声読み上げにも対応しています。
-
-
-## Vocabulary update
-- Expanded vocabulary coverage across law, politics, history, healthcare, employment, education and daily life.
-- Added conjugated and contextual forms such as `sanctionne`, `vol`, `justice`, `auteur d’un vol`.
-- Up to 25 relevant vocabulary entries can appear for each question.
