@@ -31,3 +31,7 @@ Le site est un outil pédagogique non officiel. Les questions de mise en situati
 - Prononciation individuelle des mots
 
 L'audio utilise la synthèse vocale intégrée au navigateur (Web Speech API). La voix disponible dépend de l'appareil et du navigateur.
+
+## Mise à jour
+- L’ordre des quatre réponses est mélangé à chaque nouvelle session.
+- La traduction japonaise est affichée pour les quatre choix, y compris les mauvaises réponses.
