@@ -22,3 +22,12 @@ Site statique d'entraînement non officiel avec :
 
 ## Avertissement
 Le site est un outil pédagogique non officiel. Les questions de mise en situation de l'examen réel ne sont pas publiques.
+
+## Fonctions audio et vocabulaire
+- Lecture audio de la question en français
+- Lecture de chaque choix et de la question complète
+- Réglage de vitesse (lente, normale, rapide)
+- Affichage des mots importants avec leur sens japonais
+- Prononciation individuelle des mots
+
+L'audio utilise la synthèse vocale intégrée au navigateur (Web Speech API). La voix disponible dépend de l'appareil et du navigateur.
