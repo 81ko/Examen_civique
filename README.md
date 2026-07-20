@@ -35,3 +35,10 @@ L'audio utilise la synthèse vocale intégrée au navigateur (Web Speech API). L
 ## Mise à jour
 - L’ordre des quatre réponses est mélangé à chaque nouvelle session.
 - La traduction japonaise est affichée pour les quatre choix, y compris les mauvaises réponses.
+
+
+## 単語集・単語復習
+- 「単語集」ボタンで全単語を検索・確認できます。
+- 各単語のチェックボックスを選ぶと、ブラウザーに保存されます。
+- 「単語復習」ボタンではチェック済みの単語だけを表示します。
+- 単語の音声読み上げにも対応しています。
