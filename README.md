@@ -48,3 +48,18 @@ L'audio utilise la synthèse vocale intégrée au navigateur (Web Speech API). L
 - Expanded vocabulary coverage across law, politics, history, healthcare, employment, education and daily life.
 - Added conjugated and contextual forms such as `sanctionne`, `vol`, `justice`, `auteur d’un vol`.
 - Up to 25 relevant vocabulary entries can appear for each question.
+
+
+## 単語4択テスト
+
+- 単語復習画面の「🎮 4択テスト」から開始できます。
+- 出題範囲：チェック済み／全単語／間違えた単語
+- 出題方向：フランス語→日本語／日本語→フランス語／ランダム
+- 10問・20問・30問・全問を選択できます。
+- 正答率、受験回数、間違えた単語はブラウザーに保存されます。
+
+
+## 語彙増強版
+
+- 法律・行政・在留手続き・住宅・社会保障・労働・医療・教育・歴史・地理・緊急対応の重要語を約130語追加しました。
+- 単語集、チェック復習、4択テスト、音声、学習履歴保存に対応しています。
